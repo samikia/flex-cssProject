@@ -223,7 +223,51 @@ body {
     padding-right: 1rem;
     padding-left: 1rem;
 }
+.header{
 
+}
+.header_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+}
+.nav{
+display: flex;
+align-items: center;
+}
+.nav_log{
+margin-right: 2rem;
+}
+.logo{
+
+}
+.nav_logo_img{
+
+}
+.menu{
+list-style: none;
+padding-left: 0;
+margin: 0;
+display: flex;
+}
+.menu_item{
+
+}
+.menu_link{
+    text-decoration: none;
+    padding: 0 1rem;
+    color: #081D43;
+
+}
+.header_link{
+    color: #fff;
+    background-color: #0050C8;
+    text-decoration: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+
+}
 
 
 
